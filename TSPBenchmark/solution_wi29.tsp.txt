@@ -1,0 +1,4 @@
+Dataset: wi29.tsp
+En Iyi Bulan Algoritma: Simulated Annealing
+Toplam Mesafe: 27602,25
+Süre: 7

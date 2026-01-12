@@ -1,0 +1,4 @@
+Dataset: zi929.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 103543,76
+Süre: 1544

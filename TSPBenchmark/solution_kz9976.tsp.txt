@@ -1,0 +1,4 @@
+Dataset: kz9976.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 1191110,75
+Süre: 141941

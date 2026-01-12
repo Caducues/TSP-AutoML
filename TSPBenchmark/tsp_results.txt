@@ -1,0 +1,1080 @@
+==========================================
+DATASET İŞLENİYOR: ar9152.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1322 ms | Spd: 1,00 | Mesafe: 1046585
+      Thr: 2 | Süre: 622 ms | Spd: 2,13 | Mesafe: 1045480
+      Thr: 4 | Süre: 316 ms | Spd: 4,18 | Mesafe: 1042658
+      Thr: 6 | Süre: 239 ms | Spd: 5,52 | Mesafe: 1044979
+      Thr: 8 | Süre: 175 ms | Spd: 7,53 | Mesafe: 1048987
+      Thr: 12 | Süre: 177 ms | Spd: 7,44 | Mesafe: 1040147
+      Thr: 16 | Süre: 132 ms | Spd: 9,98 | Mesafe: 1044766
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 50648 ms | Spd: 1,00 | Mesafe: 937899
+      Thr: 2 | Süre: 41006 ms | Spd: 1,24 | Mesafe: 938043
+      Thr: 4 | Süre: 20709 ms | Spd: 2,45 | Mesafe: 940613
+      Thr: 6 | Süre: 15349 ms | Spd: 3,30 | Mesafe: 937100
+      Thr: 8 | Süre: 12368 ms | Spd: 4,10 | Mesafe: 940203
+      Thr: 12 | Süre: 11123 ms | Spd: 4,55 | Mesafe: 940425
+      Thr: 16 | Süre: 7140 ms | Spd: 7,09 | Mesafe: 939846
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 9235 ms | Spd: 1,00 | Mesafe: 38403843
+      Thr: 2 | Süre: 5915 ms | Spd: 1,56 | Mesafe: 38277853
+      Thr: 4 | Süre: 3649 ms | Spd: 2,53 | Mesafe: 38267385
+      Thr: 6 | Süre: 2718 ms | Spd: 3,40 | Mesafe: 38001749
+      Thr: 8 | Süre: 2086 ms | Spd: 4,43 | Mesafe: 38322167
+      Thr: 12 | Süre: 2024 ms | Spd: 4,56 | Mesafe: 38207570
+      Thr: 16 | Süre: 1357 ms | Spd: 6,80 | Mesafe: 38492442
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 9048 ms | Spd: 1,00 | Mesafe: 69617382
+      Thr: 2 | Süre: 5678 ms | Spd: 1,59 | Mesafe: 69620698
+      Thr: 4 | Süre: 3442 ms | Spd: 2,63 | Mesafe: 69638654
+      Thr: 6 | Süre: 2816 ms | Spd: 3,21 | Mesafe: 69620557
+      Thr: 8 | Süre: 2136 ms | Spd: 4,24 | Mesafe: 69524515
+      Thr: 12 | Süre: 2366 ms | Spd: 3,82 | Mesafe: 69728969
+      Thr: 16 | Süre: 2512 ms | Spd: 3,60 | Mesafe: 69556226
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 945463 ms | Spd: 1,00 | Mesafe: 21121416
+      Thr: 2 | Süre: 630194 ms | Spd: 1,50 | Mesafe: 21147899
+      Thr: 4 | Süre: 345349 ms | Spd: 2,74 | Mesafe: 21204429
+      Thr: 6 | Süre: 267976 ms | Spd: 3,53 | Mesafe: 21074782
+      Thr: 8 | Süre: 190387 ms | Spd: 4,97 | Mesafe: 21257167
+      Thr: 12 | Süre: 194467 ms | Spd: 4,86 | Mesafe: 21397181
+      Thr: 16 | Süre: 114819 ms | Spd: 8,23 | Mesafe: 21250559
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_ar9152.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: bm33708.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 21214 ms | Spd: 1,00 | Mesafe: 1191570
+      Thr: 2 | Süre: 13997 ms | Spd: 1,52 | Mesafe: 1194510
+      Thr: 4 | Süre: 7691 ms | Spd: 2,76 | Mesafe: 1198535
+      Thr: 6 | Süre: 5700 ms | Spd: 3,72 | Mesafe: 1193146
+      Thr: 8 | Süre: 3987 ms | Spd: 5,32 | Mesafe: 1197841
+      Thr: 12 | Süre: 3937 ms | Spd: 5,39 | Mesafe: 1193661
+      Thr: 16 | Süre: 2066 ms | Spd: 10,26 | Mesafe: 1196003
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 871254 ms | Spd: 1,00 | Mesafe: 1083951
+      Thr: 2 | Süre: 574527 ms | Spd: 1,52 | Mesafe: 1081788
+      Thr: 4 | Süre: 338350 ms | Spd: 2,58 | Mesafe: 1081835
+      Thr: 6 | Süre: 251077 ms | Spd: 3,47 | Mesafe: 1082590
+      Thr: 8 | Süre: 193570 ms | Spd: 4,50 | Mesafe: 1082820
+      Thr: 12 | Süre: 181465 ms | Spd: 4,80 | Mesafe: 1083644
+      Thr: 16 | Süre: 115250 ms | Spd: 7,56 | Mesafe: 1083727
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 50771 ms | Spd: 1,00 | Mesafe: 105648134
+      Thr: 2 | Süre: 25796 ms | Spd: 1,97 | Mesafe: 105947319
+      Thr: 4 | Süre: 13311 ms | Spd: 3,81 | Mesafe: 105767492
+      Thr: 6 | Süre: 10172 ms | Spd: 4,99 | Mesafe: 105704792
+      Thr: 8 | Süre: 7982 ms | Spd: 6,36 | Mesafe: 105623696
+      Thr: 12 | Süre: 8561 ms | Spd: 5,93 | Mesafe: 106038468
+      Thr: 16 | Süre: 6688 ms | Spd: 7,59 | Mesafe: 105705924
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 33546 ms | Spd: 1,00 | Mesafe: 138239372
+      Thr: 2 | Süre: 21233 ms | Spd: 1,58 | Mesafe: 138243797
+      Thr: 4 | Süre: 16546 ms | Spd: 2,03 | Mesafe: 138361388
+      Thr: 6 | Süre: 11908 ms | Spd: 2,82 | Mesafe: 138272153
+      Thr: 8 | Süre: 9335 ms | Spd: 3,59 | Mesafe: 138372464
+      Thr: 12 | Süre: 10419 ms | Spd: 3,22 | Mesafe: 138407062
+      Thr: 16 | Süre: 10811 ms | Spd: 3,10 | Mesafe: 138131952
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 16449198 ms | Spd: 1,00 | Mesafe: 41560762
+      Thr: 2 | Süre: 11273352 ms | Spd: 1,46 | Mesafe: 41553448
+      Thr: 4 | Süre: 5689695 ms | Spd: 2,89 | Mesafe: 41575758
+      Thr: 6 | Süre: 4353104 ms | Spd: 3,78 | Mesafe: 41508403
+      Thr: 8 | Süre: 2940390 ms | Spd: 5,59 | Mesafe: 41388576
+      Thr: 12 | Süre: 2933966 ms | Spd: 5,61 | Mesafe: 41559082
+      Thr: 16 | Süre: 1617919 ms | Spd: 10,17 | Mesafe: 41493217
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_bm33708.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: dj38.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 2 ms | Spd: 1,00 | Mesafe: 6770
+      Thr: 2 | Süre: 0 ms | Spd: 2,71 | Mesafe: 6770
+      Thr: 4 | Süre: 1 ms | Spd: 2,19 | Mesafe: 6770
+      Thr: 6 | Süre: 0 ms | Spd: 3,61 | Mesafe: 6770
+      Thr: 8 | Süre: 1 ms | Spd: 2,05 | Mesafe: 6770
+      Thr: 12 | Süre: 0 ms | Spd: 2,52 | Mesafe: 6770
+      Thr: 16 | Süre: 1 ms | Spd: 1,34 | Mesafe: 6770
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 7 ms | Spd: 1,00 | Mesafe: 6658
+      Thr: 2 | Süre: 4 ms | Spd: 1,83 | Mesafe: 6658
+      Thr: 4 | Süre: 9 ms | Spd: 0,85 | Mesafe: 6658
+      Thr: 6 | Süre: 12 ms | Spd: 0,63 | Mesafe: 6658
+      Thr: 8 | Süre: 0 ms | Spd: 12,25 | Mesafe: 6658
+      Thr: 12 | Süre: 0 ms | Spd: 9,08 | Mesafe: 6658
+      Thr: 16 | Süre: 1 ms | Spd: 7,90 | Mesafe: 6658
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 85 ms | Spd: 1,00 | Mesafe: 6658
+      Thr: 2 | Süre: 22 ms | Spd: 3,80 | Mesafe: 6658
+      Thr: 4 | Süre: 12 ms | Spd: 7,07 | Mesafe: 6658
+      Thr: 6 | Süre: 8 ms | Spd: 9,68 | Mesafe: 6658
+      Thr: 8 | Süre: 6 ms | Spd: 13,21 | Mesafe: 6658
+      Thr: 12 | Süre: 6 ms | Spd: 12,69 | Mesafe: 6658
+      Thr: 16 | Süre: 4 ms | Spd: 18,41 | Mesafe: 6658
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 82 ms | Spd: 1,00 | Mesafe: 6658
+      Thr: 2 | Süre: 40 ms | Spd: 2,05 | Mesafe: 6663
+      Thr: 4 | Süre: 19 ms | Spd: 4,18 | Mesafe: 6658
+      Thr: 6 | Süre: 30 ms | Spd: 2,68 | Mesafe: 6733
+      Thr: 8 | Süre: 27 ms | Spd: 3,02 | Mesafe: 6663
+      Thr: 12 | Süre: 15 ms | Spd: 5,48 | Mesafe: 6661
+      Thr: 16 | Süre: 14 ms | Spd: 5,60 | Mesafe: 6737
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 75 ms | Spd: 1,00 | Mesafe: 7247
+      Thr: 2 | Süre: 30 ms | Spd: 2,49 | Mesafe: 7251
+      Thr: 4 | Süre: 15 ms | Spd: 4,93 | Mesafe: 7618
+      Thr: 6 | Süre: 12 ms | Spd: 6,18 | Mesafe: 6770
+      Thr: 8 | Süre: 9 ms | Spd: 8,20 | Mesafe: 7282
+      Thr: 12 | Süre: 9 ms | Spd: 8,23 | Mesafe: 7163
+      Thr: 16 | Süre: 6 ms | Spd: 11,34 | Mesafe: 7622
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_dj38.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: eg7146.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 887 ms | Spd: 1,00 | Mesafe: 218264
+      Thr: 2 | Süre: 438 ms | Spd: 2,02 | Mesafe: 212491
+      Thr: 4 | Süre: 228 ms | Spd: 3,88 | Mesafe: 213739
+      Thr: 6 | Süre: 164 ms | Spd: 5,39 | Mesafe: 213457
+      Thr: 8 | Süre: 118 ms | Spd: 7,50 | Mesafe: 212652
+      Thr: 12 | Süre: 112 ms | Spd: 7,87 | Mesafe: 216895
+      Thr: 16 | Süre: 86 ms | Spd: 10,25 | Mesafe: 219476
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 32676 ms | Spd: 1,00 | Mesafe: 189070
+      Thr: 2 | Süre: 25678 ms | Spd: 1,27 | Mesafe: 188837
+      Thr: 4 | Süre: 12464 ms | Spd: 2,62 | Mesafe: 187855
+      Thr: 6 | Süre: 6733 ms | Spd: 4,85 | Mesafe: 190315
+      Thr: 8 | Süre: 4511 ms | Spd: 7,24 | Mesafe: 188837
+      Thr: 12 | Süre: 4630 ms | Spd: 7,06 | Mesafe: 191080
+      Thr: 16 | Süre: 3484 ms | Spd: 9,38 | Mesafe: 190951
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 7494 ms | Spd: 1,00 | Mesafe: 6617107
+      Thr: 2 | Süre: 3753 ms | Spd: 2,00 | Mesafe: 6583566
+      Thr: 4 | Süre: 1986 ms | Spd: 3,77 | Mesafe: 6686729
+      Thr: 6 | Süre: 1527 ms | Spd: 4,91 | Mesafe: 6673887
+      Thr: 8 | Süre: 1148 ms | Spd: 6,52 | Mesafe: 6671879
+      Thr: 12 | Süre: 1202 ms | Spd: 6,23 | Mesafe: 6602755
+      Thr: 16 | Süre: 955 ms | Spd: 7,84 | Mesafe: 6631448
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 6797 ms | Spd: 1,00 | Mesafe: 13119752
+      Thr: 2 | Süre: 3550 ms | Spd: 1,91 | Mesafe: 13200177
+      Thr: 4 | Süre: 1994 ms | Spd: 3,41 | Mesafe: 13198790
+      Thr: 6 | Süre: 1663 ms | Spd: 4,09 | Mesafe: 13201922
+      Thr: 8 | Süre: 1486 ms | Spd: 4,57 | Mesafe: 13180873
+      Thr: 12 | Süre: 1755 ms | Spd: 3,87 | Mesafe: 13174458
+      Thr: 16 | Süre: 1817 ms | Spd: 3,74 | Mesafe: 13117700
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 754788 ms | Spd: 1,00 | Mesafe: 4002565
+      Thr: 2 | Süre: 440854 ms | Spd: 1,71 | Mesafe: 4012436
+      Thr: 4 | Süre: 250871 ms | Spd: 3,01 | Mesafe: 4020990
+      Thr: 6 | Süre: 196985 ms | Spd: 3,83 | Mesafe: 4031937
+      Thr: 8 | Süre: 145332 ms | Spd: 5,19 | Mesafe: 4034340
+      Thr: 12 | Süre: 148519 ms | Spd: 5,08 | Mesafe: 4039213
+      Thr: 16 | Süre: 90241 ms | Spd: 8,36 | Mesafe: 3982569
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_eg7146.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: ei8246.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1312 ms | Spd: 1,00 | Mesafe: 256573
+      Thr: 2 | Süre: 713 ms | Spd: 1,84 | Mesafe: 255914
+      Thr: 4 | Süre: 403 ms | Spd: 3,25 | Mesafe: 256133
+      Thr: 6 | Süre: 319 ms | Spd: 4,11 | Mesafe: 255498
+      Thr: 8 | Süre: 234 ms | Spd: 5,60 | Mesafe: 255127
+      Thr: 12 | Süre: 239 ms | Spd: 5,47 | Mesafe: 256048
+      Thr: 16 | Süre: 224 ms | Spd: 5,84 | Mesafe: 255958
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 45933 ms | Spd: 1,00 | Mesafe: 232780
+      Thr: 2 | Süre: 27377 ms | Spd: 1,68 | Mesafe: 232809
+      Thr: 4 | Süre: 15659 ms | Spd: 2,93 | Mesafe: 233237
+      Thr: 6 | Süre: 12277 ms | Spd: 3,74 | Mesafe: 231881
+      Thr: 8 | Süre: 9956 ms | Spd: 4,61 | Mesafe: 233106
+      Thr: 12 | Süre: 9426 ms | Spd: 4,87 | Mesafe: 233145
+      Thr: 16 | Süre: 6146 ms | Spd: 7,47 | Mesafe: 233376
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 10314 ms | Spd: 1,00 | Mesafe: 7185331
+      Thr: 2 | Süre: 5876 ms | Spd: 1,76 | Mesafe: 7204213
+      Thr: 4 | Süre: 3537 ms | Spd: 2,92 | Mesafe: 7182731
+      Thr: 6 | Süre: 2863 ms | Spd: 3,60 | Mesafe: 7151657
+      Thr: 8 | Süre: 2133 ms | Spd: 4,84 | Mesafe: 7191111
+      Thr: 12 | Süre: 2257 ms | Spd: 4,57 | Mesafe: 7174306
+      Thr: 16 | Süre: 1506 ms | Spd: 6,85 | Mesafe: 7186025
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 9614 ms | Spd: 1,00 | Mesafe: 13739862
+      Thr: 2 | Süre: 5662 ms | Spd: 1,70 | Mesafe: 13807458
+      Thr: 4 | Süre: 3490 ms | Spd: 2,75 | Mesafe: 13745573
+      Thr: 6 | Süre: 3079 ms | Spd: 3,12 | Mesafe: 13753831
+      Thr: 8 | Süre: 2709 ms | Spd: 3,55 | Mesafe: 13748715
+      Thr: 12 | Süre: 3069 ms | Spd: 3,13 | Mesafe: 13750629
+      Thr: 16 | Süre: 2505 ms | Spd: 3,84 | Mesafe: 13761693
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 979556 ms | Spd: 1,00 | Mesafe: 4261017
+      Thr: 2 | Süre: 606023 ms | Spd: 1,62 | Mesafe: 4211514
+      Thr: 4 | Süre: 338991 ms | Spd: 2,89 | Mesafe: 4283154
+      Thr: 6 | Süre: 253873 ms | Spd: 3,86 | Mesafe: 4300488
+      Thr: 8 | Süre: 179948 ms | Spd: 5,44 | Mesafe: 4287139
+      Thr: 12 | Süre: 179611 ms | Spd: 5,45 | Mesafe: 4300174
+      Thr: 16 | Süre: 115113 ms | Spd: 8,51 | Mesafe: 4260254
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_ei8246.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: fi10639.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1988 ms | Spd: 1,00 | Mesafe: 641700
+      Thr: 2 | Süre: 1168 ms | Spd: 1,70 | Mesafe: 639068
+      Thr: 4 | Süre: 674 ms | Spd: 2,95 | Mesafe: 640545
+      Thr: 6 | Süre: 504 ms | Spd: 3,94 | Mesafe: 640769
+      Thr: 8 | Süre: 371 ms | Spd: 5,35 | Mesafe: 637788
+      Thr: 12 | Süre: 379 ms | Spd: 5,24 | Mesafe: 641218
+      Thr: 16 | Süre: 281 ms | Spd: 7,06 | Mesafe: 639693
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 77720 ms | Spd: 1,00 | Mesafe: 587083
+      Thr: 2 | Süre: 44080 ms | Spd: 1,76 | Mesafe: 588758
+      Thr: 4 | Süre: 26178 ms | Spd: 2,97 | Mesafe: 585785
+      Thr: 6 | Süre: 20326 ms | Spd: 3,82 | Mesafe: 586974
+      Thr: 8 | Süre: 16261 ms | Spd: 4,78 | Mesafe: 588098
+      Thr: 12 | Süre: 15556 ms | Spd: 5,00 | Mesafe: 587888
+      Thr: 16 | Süre: 10904 ms | Spd: 7,13 | Mesafe: 588267
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 13384 ms | Spd: 1,00 | Mesafe: 22062614
+      Thr: 2 | Süre: 7952 ms | Spd: 1,68 | Mesafe: 22047501
+      Thr: 4 | Süre: 4697 ms | Spd: 2,85 | Mesafe: 21923286
+      Thr: 6 | Süre: 3728 ms | Spd: 3,59 | Mesafe: 22024971
+      Thr: 8 | Süre: 2789 ms | Spd: 4,80 | Mesafe: 21920846
+      Thr: 12 | Süre: 2993 ms | Spd: 4,47 | Mesafe: 22062421
+      Thr: 16 | Süre: 2040 ms | Spd: 6,56 | Mesafe: 21949571
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 12372 ms | Spd: 1,00 | Mesafe: 40302015
+      Thr: 2 | Süre: 7621 ms | Spd: 1,62 | Mesafe: 40225244
+      Thr: 4 | Süre: 4671 ms | Spd: 2,65 | Mesafe: 40231599
+      Thr: 6 | Süre: 3962 ms | Spd: 3,12 | Mesafe: 40208698
+      Thr: 8 | Süre: 3319 ms | Spd: 3,73 | Mesafe: 40202591
+      Thr: 12 | Süre: 3990 ms | Spd: 3,10 | Mesafe: 40277326
+      Thr: 16 | Süre: 3422 ms | Spd: 3,62 | Mesafe: 40209376
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 1594466 ms | Spd: 1,00 | Mesafe: 12344272
+      Thr: 2 | Süre: 962467 ms | Spd: 1,66 | Mesafe: 12443144
+      Thr: 4 | Süre: 459828 ms | Spd: 3,47 | Mesafe: 12429061
+      Thr: 6 | Süre: 294751 ms | Spd: 5,41 | Mesafe: 12361436
+      Thr: 8 | Süre: 302760 ms | Spd: 5,27 | Mesafe: 12462601
+      Thr: 12 | Süre: 304225 ms | Spd: 5,24 | Mesafe: 12362054
+      Thr: 16 | Süre: 171655 ms | Spd: 9,29 | Mesafe: 12448774
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_fi10639.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: gr9882.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1816 ms | Spd: 1,00 | Mesafe: 381971
+      Thr: 2 | Süre: 1313 ms | Spd: 1,38 | Mesafe: 382263
+      Thr: 4 | Süre: 729 ms | Spd: 2,49 | Mesafe: 383209
+      Thr: 6 | Süre: 504 ms | Spd: 3,60 | Mesafe: 383411
+      Thr: 8 | Süre: 355 ms | Spd: 5,11 | Mesafe: 383232
+      Thr: 12 | Süre: 331 ms | Spd: 5,47 | Mesafe: 383409
+      Thr: 16 | Süre: 191 ms | Spd: 9,47 | Mesafe: 381928
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 61256 ms | Spd: 1,00 | Mesafe: 338056
+      Thr: 2 | Süre: 56417 ms | Spd: 1,09 | Mesafe: 337084
+      Thr: 4 | Süre: 28029 ms | Spd: 2,19 | Mesafe: 336761
+      Thr: 6 | Süre: 20515 ms | Spd: 2,99 | Mesafe: 338148
+      Thr: 8 | Süre: 15881 ms | Spd: 3,86 | Mesafe: 337311
+      Thr: 12 | Süre: 14150 ms | Spd: 4,33 | Mesafe: 337999
+      Thr: 16 | Süre: 9048 ms | Spd: 6,77 | Mesafe: 336195
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 11036 ms | Spd: 1,00 | Mesafe: 15206711
+      Thr: 2 | Süre: 9508 ms | Spd: 1,16 | Mesafe: 15145492
+      Thr: 4 | Süre: 4991 ms | Spd: 2,21 | Mesafe: 14924841
+      Thr: 6 | Süre: 3752 ms | Spd: 2,94 | Mesafe: 15181517
+      Thr: 8 | Süre: 2722 ms | Spd: 4,05 | Mesafe: 15083485
+      Thr: 12 | Süre: 2708 ms | Spd: 4,08 | Mesafe: 15001834
+      Thr: 16 | Süre: 1649 ms | Spd: 6,69 | Mesafe: 15187090
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 10063 ms | Spd: 1,00 | Mesafe: 27325319
+      Thr: 2 | Süre: 8504 ms | Spd: 1,18 | Mesafe: 27358882
+      Thr: 4 | Süre: 5118 ms | Spd: 1,97 | Mesafe: 27303391
+      Thr: 6 | Süre: 3647 ms | Spd: 2,76 | Mesafe: 27363467
+      Thr: 8 | Süre: 3001 ms | Spd: 3,35 | Mesafe: 27350065
+      Thr: 12 | Süre: 3719 ms | Spd: 2,71 | Mesafe: 27393953
+      Thr: 16 | Süre: 3149 ms | Spd: 3,20 | Mesafe: 27331280
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 1227966 ms | Spd: 1,00 | Mesafe: 8354285
+      Thr: 2 | Süre: 980562 ms | Spd: 1,25 | Mesafe: 8327296
+      Thr: 4 | Süre: 499332 ms | Spd: 2,46 | Mesafe: 8243304
+      Thr: 6 | Süre: 378003 ms | Spd: 3,25 | Mesafe: 8382827
+      Thr: 8 | Süre: 258740 ms | Spd: 4,75 | Mesafe: 8347167
+      Thr: 12 | Süre: 263701 ms | Spd: 4,66 | Mesafe: 8387296
+      Thr: 16 | Süre: 144243 ms | Spd: 8,51 | Mesafe: 8337159
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_gr9882.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: ho14473.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 3173 ms | Spd: 1,00 | Mesafe: 221913
+      Thr: 2 | Süre: 2929 ms | Spd: 1,08 | Mesafe: 220808
+      Thr: 4 | Süre: 1437 ms | Spd: 2,21 | Mesafe: 220763
+      Thr: 6 | Süre: 1091 ms | Spd: 2,91 | Mesafe: 221752
+      Thr: 8 | Süre: 713 ms | Spd: 4,45 | Mesafe: 222008
+      Thr: 12 | Süre: 655 ms | Spd: 4,84 | Mesafe: 222331
+      Thr: 16 | Süre: 395 ms | Spd: 8,03 | Mesafe: 219645
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 116940 ms | Spd: 1,00 | Mesafe: 196991
+      Thr: 2 | Süre: 108236 ms | Spd: 1,08 | Mesafe: 196768
+      Thr: 4 | Süre: 57291 ms | Spd: 2,04 | Mesafe: 197454
+      Thr: 6 | Süre: 39423 ms | Spd: 2,97 | Mesafe: 197104
+      Thr: 8 | Süre: 29434 ms | Spd: 3,97 | Mesafe: 197048
+      Thr: 12 | Süre: 27060 ms | Spd: 4,32 | Mesafe: 196811
+      Thr: 16 | Süre: 17166 ms | Spd: 6,81 | Mesafe: 196526
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 17828 ms | Spd: 1,00 | Mesafe: 13103984
+      Thr: 2 | Süre: 15456 ms | Spd: 1,15 | Mesafe: 13201676
+      Thr: 4 | Süre: 8179 ms | Spd: 2,18 | Mesafe: 13185786
+      Thr: 6 | Süre: 6094 ms | Spd: 2,93 | Mesafe: 13142896
+      Thr: 8 | Süre: 4394 ms | Spd: 4,06 | Mesafe: 13241141
+      Thr: 12 | Süre: 4412 ms | Spd: 4,04 | Mesafe: 13177901
+      Thr: 16 | Süre: 2539 ms | Spd: 7,02 | Mesafe: 13151287
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 13888 ms | Spd: 1,00 | Mesafe: 20768232
+      Thr: 2 | Süre: 12039 ms | Spd: 1,15 | Mesafe: 20809244
+      Thr: 4 | Süre: 7315 ms | Spd: 1,90 | Mesafe: 20792753
+      Thr: 6 | Süre: 5013 ms | Spd: 2,77 | Mesafe: 20761767
+      Thr: 8 | Süre: 3949 ms | Spd: 3,52 | Mesafe: 20778285
+      Thr: 12 | Süre: 4083 ms | Spd: 3,40 | Mesafe: 20744724
+      Thr: 16 | Süre: 4126 ms | Spd: 3,37 | Mesafe: 20779232
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 2274557 ms | Spd: 1,00 | Mesafe: 6258181
+      Thr: 2 | Süre: 1989816 ms | Spd: 1,14 | Mesafe: 6254677
+      Thr: 4 | Süre: 1009555 ms | Spd: 2,25 | Mesafe: 6228572
+      Thr: 6 | Süre: 769187 ms | Spd: 2,96 | Mesafe: 6270312
+      Thr: 8 | Süre: 522433 ms | Spd: 4,35 | Mesafe: 6215922
+      Thr: 12 | Süre: 536900 ms | Spd: 4,24 | Mesafe: 6223741
+      Thr: 16 | Süre: 293551 ms | Spd: 7,75 | Mesafe: 6192328
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_ho14473.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: ja9847.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1633 ms | Spd: 1,00 | Mesafe: 623997
+      Thr: 2 | Süre: 1247 ms | Spd: 1,31 | Mesafe: 628007
+      Thr: 4 | Süre: 698 ms | Spd: 2,34 | Mesafe: 622134
+      Thr: 6 | Süre: 492 ms | Spd: 3,32 | Mesafe: 624004
+      Thr: 8 | Süre: 354 ms | Spd: 4,61 | Mesafe: 622712
+      Thr: 12 | Süre: 348 ms | Spd: 4,68 | Mesafe: 622151
+      Thr: 16 | Süre: 190 ms | Spd: 8,57 | Mesafe: 621035
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 57747 ms | Spd: 1,00 | Mesafe: 549317
+      Thr: 2 | Süre: 52845 ms | Spd: 1,09 | Mesafe: 547516
+      Thr: 4 | Süre: 26661 ms | Spd: 2,17 | Mesafe: 549365
+      Thr: 6 | Süre: 18647 ms | Spd: 3,10 | Mesafe: 548167
+      Thr: 8 | Süre: 14655 ms | Spd: 3,94 | Mesafe: 549214
+      Thr: 12 | Süre: 13355 ms | Spd: 4,32 | Mesafe: 547539
+      Thr: 16 | Süre: 8425 ms | Spd: 6,85 | Mesafe: 550992
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 10649 ms | Spd: 1,00 | Mesafe: 31646452
+      Thr: 2 | Süre: 9226 ms | Spd: 1,15 | Mesafe: 31822612
+      Thr: 4 | Süre: 4776 ms | Spd: 2,23 | Mesafe: 31491902
+      Thr: 6 | Süre: 3533 ms | Spd: 3,01 | Mesafe: 31817163
+      Thr: 8 | Süre: 2583 ms | Spd: 4,12 | Mesafe: 31910018
+      Thr: 12 | Süre: 2518 ms | Spd: 4,23 | Mesafe: 31768049
+      Thr: 16 | Süre: 1477 ms | Spd: 7,21 | Mesafe: 31669071
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 9597 ms | Spd: 1,00 | Mesafe: 66385689
+      Thr: 2 | Süre: 7800 ms | Spd: 1,23 | Mesafe: 66477089
+      Thr: 4 | Süre: 5023 ms | Spd: 1,91 | Mesafe: 66423114
+      Thr: 6 | Süre: 3689 ms | Spd: 2,60 | Mesafe: 66260296
+      Thr: 8 | Süre: 2658 ms | Spd: 3,61 | Mesafe: 66337774
+      Thr: 12 | Süre: 2811 ms | Spd: 3,41 | Mesafe: 66115207
+      Thr: 16 | Süre: 2615 ms | Spd: 3,67 | Mesafe: 66627697
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 1177604 ms | Spd: 1,00 | Mesafe: 20146911
+      Thr: 2 | Süre: 963270 ms | Spd: 1,22 | Mesafe: 20178086
+      Thr: 4 | Süre: 486020 ms | Spd: 2,42 | Mesafe: 20318008
+      Thr: 6 | Süre: 369780 ms | Spd: 3,18 | Mesafe: 20051088
+      Thr: 8 | Süre: 250938 ms | Spd: 4,69 | Mesafe: 20037628
+      Thr: 12 | Süre: 255182 ms | Spd: 4,61 | Mesafe: 20001723
+      Thr: 16 | Süre: 139886 ms | Spd: 8,42 | Mesafe: 20351602
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_ja9847.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: kz9976.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1646 ms | Spd: 1,00 | Mesafe: 1353189
+      Thr: 2 | Süre: 1398 ms | Spd: 1,18 | Mesafe: 1352564
+      Thr: 4 | Süre: 666 ms | Spd: 2,47 | Mesafe: 1350109
+      Thr: 6 | Süre: 492 ms | Spd: 3,35 | Mesafe: 1353227
+      Thr: 8 | Süre: 362 ms | Spd: 4,55 | Mesafe: 1353765
+      Thr: 12 | Süre: 360 ms | Spd: 4,56 | Mesafe: 1357302
+      Thr: 16 | Süre: 190 ms | Spd: 8,66 | Mesafe: 1354747
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 61105 ms | Spd: 1,00 | Mesafe: 1191111
+      Thr: 2 | Süre: 53831 ms | Spd: 1,14 | Mesafe: 1197818
+      Thr: 4 | Süre: 29542 ms | Spd: 2,07 | Mesafe: 1201827
+      Thr: 6 | Süre: 21172 ms | Spd: 2,89 | Mesafe: 1196662
+      Thr: 8 | Süre: 14925 ms | Spd: 4,09 | Mesafe: 1199175
+      Thr: 12 | Süre: 14374 ms | Spd: 4,25 | Mesafe: 1199893
+      Thr: 16 | Süre: 8385 ms | Spd: 7,29 | Mesafe: 1195364
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 10188 ms | Spd: 1,00 | Mesafe: 58067346
+      Thr: 2 | Süre: 8387 ms | Spd: 1,21 | Mesafe: 57986755
+      Thr: 4 | Süre: 4588 ms | Spd: 2,22 | Mesafe: 58272467
+      Thr: 6 | Süre: 3393 ms | Spd: 3,00 | Mesafe: 57954320
+      Thr: 8 | Süre: 2465 ms | Spd: 4,13 | Mesafe: 58054425
+      Thr: 12 | Süre: 2367 ms | Spd: 4,30 | Mesafe: 58374684
+      Thr: 16 | Süre: 1560 ms | Spd: 6,53 | Mesafe: 58186340
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 9629 ms | Spd: 1,00 | Mesafe: 123909771
+      Thr: 2 | Süre: 8010 ms | Spd: 1,20 | Mesafe: 124026180
+      Thr: 4 | Süre: 4826 ms | Spd: 2,00 | Mesafe: 124245639
+      Thr: 6 | Süre: 3377 ms | Spd: 2,85 | Mesafe: 124602958
+      Thr: 8 | Süre: 3133 ms | Spd: 3,07 | Mesafe: 124135659
+      Thr: 12 | Süre: 2828 ms | Spd: 3,40 | Mesafe: 124525369
+      Thr: 16 | Süre: 2862 ms | Spd: 3,36 | Mesafe: 123956289
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 1189521 ms | Spd: 1,00 | Mesafe: 38253012
+      Thr: 2 | Süre: 979116 ms | Spd: 1,21 | Mesafe: 38039318
+      Thr: 4 | Süre: 495452 ms | Spd: 2,40 | Mesafe: 37854697
+      Thr: 6 | Süre: 376170 ms | Spd: 3,16 | Mesafe: 38129979
+      Thr: 8 | Süre: 255638 ms | Spd: 4,65 | Mesafe: 37696374
+      Thr: 12 | Süre: 258240 ms | Spd: 4,61 | Mesafe: 38179922
+      Thr: 16 | Süre: 141941 ms | Spd: 8,38 | Mesafe: 37580037
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_kz9976.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: lu980.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 38 ms | Spd: 1,00 | Mesafe: 13661
+      Thr: 2 | Süre: 9 ms | Spd: 3,99 | Mesafe: 13279
+      Thr: 4 | Süre: 5 ms | Spd: 6,50 | Mesafe: 13459
+      Thr: 6 | Süre: 4 ms | Spd: 8,92 | Mesafe: 13286
+      Thr: 8 | Süre: 4 ms | Spd: 9,57 | Mesafe: 13419
+      Thr: 12 | Süre: 3 ms | Spd: 11,25 | Mesafe: 13217
+      Thr: 16 | Süre: 2 ms | Spd: 12,84 | Mesafe: 13569
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 424 ms | Spd: 1,00 | Mesafe: 12436
+      Thr: 2 | Süre: 360 ms | Spd: 1,18 | Mesafe: 12403
+      Thr: 4 | Süre: 212 ms | Spd: 2,00 | Mesafe: 12372
+      Thr: 6 | Süre: 140 ms | Spd: 3,01 | Mesafe: 12460
+      Thr: 8 | Süre: 110 ms | Spd: 3,86 | Mesafe: 12242
+      Thr: 12 | Süre: 95 ms | Spd: 4,43 | Mesafe: 12505
+      Thr: 16 | Süre: 55 ms | Spd: 7,60 | Mesafe: 12529
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 798 ms | Spd: 1,00 | Mesafe: 60207
+      Thr: 2 | Süre: 575 ms | Spd: 1,39 | Mesafe: 60805
+      Thr: 4 | Süre: 310 ms | Spd: 2,57 | Mesafe: 59971
+      Thr: 6 | Süre: 251 ms | Spd: 3,18 | Mesafe: 60102
+      Thr: 8 | Süre: 180 ms | Spd: 4,43 | Mesafe: 60934
+      Thr: 12 | Süre: 178 ms | Spd: 4,46 | Mesafe: 61177
+      Thr: 16 | Süre: 99 ms | Spd: 7,99 | Mesafe: 60246
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 1116 ms | Spd: 1,00 | Mesafe: 209658
+      Thr: 2 | Süre: 715 ms | Spd: 1,56 | Mesafe: 208947
+      Thr: 4 | Süre: 419 ms | Spd: 2,66 | Mesafe: 208882
+      Thr: 6 | Süre: 340 ms | Spd: 3,28 | Mesafe: 209051
+      Thr: 8 | Süre: 390 ms | Spd: 2,86 | Mesafe: 208161
+      Thr: 12 | Süre: 341 ms | Spd: 3,27 | Mesafe: 209768
+      Thr: 16 | Süre: 343 ms | Spd: 3,25 | Mesafe: 210072
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 11840 ms | Spd: 1,00 | Mesafe: 83320
+      Thr: 2 | Süre: 9148 ms | Spd: 1,29 | Mesafe: 83662
+      Thr: 4 | Süre: 4844 ms | Spd: 2,44 | Mesafe: 82167
+      Thr: 6 | Süre: 3678 ms | Spd: 3,22 | Mesafe: 83570
+      Thr: 8 | Süre: 2509 ms | Spd: 4,72 | Mesafe: 82914
+      Thr: 12 | Süre: 2522 ms | Spd: 4,69 | Mesafe: 78618
+      Thr: 16 | Süre: 1385 ms | Spd: 8,55 | Mesafe: 82202
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_lu980.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: mo14185.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 3186 ms | Spd: 1,00 | Mesafe: 524469
+      Thr: 2 | Süre: 2582 ms | Spd: 1,23 | Mesafe: 521255
+      Thr: 4 | Süre: 1290 ms | Spd: 2,47 | Mesafe: 524042
+      Thr: 6 | Süre: 1016 ms | Spd: 3,14 | Mesafe: 525894
+      Thr: 8 | Süre: 723 ms | Spd: 4,41 | Mesafe: 525031
+      Thr: 12 | Süre: 677 ms | Spd: 4,70 | Mesafe: 524526
+      Thr: 16 | Süre: 395 ms | Spd: 8,06 | Mesafe: 525894
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 120617 ms | Spd: 1,00 | Mesafe: 478670
+      Thr: 2 | Süre: 110314 ms | Spd: 1,09 | Mesafe: 481565
+      Thr: 4 | Süre: 57988 ms | Spd: 2,08 | Mesafe: 482509
+      Thr: 6 | Süre: 42993 ms | Spd: 2,81 | Mesafe: 481504
+      Thr: 8 | Süre: 29476 ms | Spd: 4,09 | Mesafe: 482340
+      Thr: 12 | Süre: 27536 ms | Spd: 4,38 | Mesafe: 482166
+      Thr: 16 | Süre: 17791 ms | Spd: 6,78 | Mesafe: 481292
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 17034 ms | Spd: 1,00 | Mesafe: 25050797
+      Thr: 2 | Süre: 14776 ms | Spd: 1,15 | Mesafe: 25208009
+      Thr: 4 | Süre: 7735 ms | Spd: 2,20 | Mesafe: 25147669
+      Thr: 6 | Süre: 5857 ms | Spd: 2,91 | Mesafe: 25187538
+      Thr: 8 | Süre: 4126 ms | Spd: 4,13 | Mesafe: 24928096
+      Thr: 12 | Süre: 4214 ms | Spd: 4,04 | Mesafe: 25083971
+      Thr: 16 | Süre: 2326 ms | Spd: 7,32 | Mesafe: 24990296
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 13632 ms | Spd: 1,00 | Mesafe: 44730584
+      Thr: 2 | Süre: 11538 ms | Spd: 1,18 | Mesafe: 44763138
+      Thr: 4 | Süre: 6411 ms | Spd: 2,13 | Mesafe: 44730787
+      Thr: 6 | Süre: 6102 ms | Spd: 2,23 | Mesafe: 44626409
+      Thr: 8 | Süre: 4130 ms | Spd: 3,30 | Mesafe: 44699663
+      Thr: 12 | Süre: 4282 ms | Spd: 3,18 | Mesafe: 44710783
+      Thr: 16 | Süre: 4041 ms | Spd: 3,37 | Mesafe: 44622182
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 2447867 ms | Spd: 1,00 | Mesafe: 13649795
+      Thr: 2 | Süre: 1817002 ms | Spd: 1,35 | Mesafe: 13781395
+      Thr: 4 | Süre: 1010778 ms | Spd: 2,42 | Mesafe: 13778072
+      Thr: 6 | Süre: 713475 ms | Spd: 3,43 | Mesafe: 13742991
+      Thr: 8 | Süre: 501581 ms | Spd: 4,88 | Mesafe: 13636516
+      Thr: 12 | Süre: 512378 ms | Spd: 4,78 | Mesafe: 13629597
+      Thr: 16 | Süre: 303344 ms | Spd: 8,07 | Mesafe: 13760486
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_mo14185.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: mu1979.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 101 ms | Spd: 1,00 | Mesafe: 113529
+      Thr: 2 | Süre: 38 ms | Spd: 2,60 | Mesafe: 113410
+      Thr: 4 | Süre: 24 ms | Spd: 4,13 | Mesafe: 113286
+      Thr: 6 | Süre: 19 ms | Spd: 5,23 | Mesafe: 112781
+      Thr: 8 | Süre: 14 ms | Spd: 6,89 | Mesafe: 112615
+      Thr: 12 | Süre: 14 ms | Spd: 7,02 | Mesafe: 114182
+      Thr: 16 | Süre: 14 ms | Spd: 7,08 | Mesafe: 112615
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 2274 ms | Spd: 1,00 | Mesafe: 94276
+      Thr: 2 | Süre: 1593 ms | Spd: 1,43 | Mesafe: 94564
+      Thr: 4 | Süre: 855 ms | Spd: 2,66 | Mesafe: 95110
+      Thr: 6 | Süre: 628 ms | Spd: 3,62 | Mesafe: 94803
+      Thr: 8 | Süre: 538 ms | Spd: 4,22 | Mesafe: 94520
+      Thr: 12 | Süre: 512 ms | Spd: 4,44 | Mesafe: 94073
+      Thr: 16 | Süre: 356 ms | Spd: 6,38 | Mesafe: 94695
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 1713 ms | Spd: 1,00 | Mesafe: 1193422
+      Thr: 2 | Süre: 1092 ms | Spd: 1,57 | Mesafe: 1176797
+      Thr: 4 | Süre: 577 ms | Spd: 2,97 | Mesafe: 1156974
+      Thr: 6 | Süre: 447 ms | Spd: 3,82 | Mesafe: 1152647
+      Thr: 8 | Süre: 331 ms | Spd: 5,16 | Mesafe: 1179708
+      Thr: 12 | Süre: 340 ms | Spd: 5,04 | Mesafe: 1208782
+      Thr: 16 | Süre: 270 ms | Spd: 6,34 | Mesafe: 1180369
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 2297 ms | Spd: 1,00 | Mesafe: 4224484
+      Thr: 2 | Süre: 1389 ms | Spd: 1,65 | Mesafe: 4224634
+      Thr: 4 | Süre: 875 ms | Spd: 2,62 | Mesafe: 4127460
+      Thr: 6 | Süre: 1069 ms | Spd: 2,15 | Mesafe: 4221131
+      Thr: 8 | Süre: 935 ms | Spd: 2,46 | Mesafe: 4226623
+      Thr: 12 | Süre: 870 ms | Spd: 2,64 | Mesafe: 4237088
+      Thr: 16 | Süre: 655 ms | Spd: 3,50 | Mesafe: 4254213
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 59820 ms | Spd: 1,00 | Mesafe: 1438245
+      Thr: 2 | Süre: 36316 ms | Spd: 1,65 | Mesafe: 1451576
+      Thr: 4 | Süre: 19649 ms | Spd: 3,04 | Mesafe: 1424822
+      Thr: 6 | Süre: 15100 ms | Spd: 3,96 | Mesafe: 1358457
+      Thr: 8 | Süre: 10689 ms | Spd: 5,60 | Mesafe: 1436509
+      Thr: 12 | Süre: 8502 ms | Spd: 7,04 | Mesafe: 1423636
+      Thr: 16 | Süre: 5945 ms | Spd: 10,06 | Mesafe: 1433012
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_mu1979.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: nu3496.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 219 ms | Spd: 1,00 | Mesafe: 118610
+      Thr: 2 | Süre: 99 ms | Spd: 2,21 | Mesafe: 116376
+      Thr: 4 | Süre: 49 ms | Spd: 4,44 | Mesafe: 116462
+      Thr: 6 | Süre: 43 ms | Spd: 5,07 | Mesafe: 117651
+      Thr: 8 | Süre: 36 ms | Spd: 6,03 | Mesafe: 116917
+      Thr: 12 | Süre: 26 ms | Spd: 8,17 | Mesafe: 118628
+      Thr: 16 | Süre: 24 ms | Spd: 9,05 | Mesafe: 118804
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 6429 ms | Spd: 1,00 | Mesafe: 106981
+      Thr: 2 | Süre: 4874 ms | Spd: 1,32 | Mesafe: 107494
+      Thr: 4 | Süre: 2753 ms | Spd: 2,34 | Mesafe: 106454
+      Thr: 6 | Süre: 2096 ms | Spd: 3,07 | Mesafe: 106895
+      Thr: 8 | Süre: 1430 ms | Spd: 4,49 | Mesafe: 106367
+      Thr: 12 | Süre: 1390 ms | Spd: 4,62 | Mesafe: 107004
+      Thr: 16 | Süre: 986 ms | Spd: 6,51 | Mesafe: 106145
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 3493 ms | Spd: 1,00 | Mesafe: 1880946
+      Thr: 2 | Süre: 2467 ms | Spd: 1,42 | Mesafe: 1859679
+      Thr: 4 | Süre: 1192 ms | Spd: 2,93 | Mesafe: 1856087
+      Thr: 6 | Süre: 938 ms | Spd: 3,72 | Mesafe: 1863314
+      Thr: 8 | Süre: 669 ms | Spd: 5,21 | Mesafe: 1868930
+      Thr: 12 | Süre: 726 ms | Spd: 4,81 | Mesafe: 1897348
+      Thr: 16 | Süre: 482 ms | Spd: 7,24 | Mesafe: 1881103
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 3601 ms | Spd: 1,00 | Mesafe: 4557324
+      Thr: 2 | Süre: 2777 ms | Spd: 1,30 | Mesafe: 4565493
+      Thr: 4 | Süre: 1512 ms | Spd: 2,38 | Mesafe: 4573925
+      Thr: 6 | Süre: 1418 ms | Spd: 2,54 | Mesafe: 4549151
+      Thr: 8 | Süre: 1023 ms | Spd: 3,52 | Mesafe: 4568813
+      Thr: 12 | Süre: 1087 ms | Spd: 3,31 | Mesafe: 4554277
+      Thr: 16 | Süre: 872 ms | Spd: 4,13 | Mesafe: 4524781
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 144400 ms | Spd: 1,00 | Mesafe: 1471102
+      Thr: 2 | Süre: 108748 ms | Spd: 1,33 | Mesafe: 1485580
+      Thr: 4 | Süre: 56812 ms | Spd: 2,54 | Mesafe: 1448059
+      Thr: 6 | Süre: 43294 ms | Spd: 3,34 | Mesafe: 1435418
+      Thr: 8 | Süre: 29376 ms | Spd: 4,92 | Mesafe: 1477652
+      Thr: 12 | Süre: 29938 ms | Spd: 4,82 | Mesafe: 1454483
+      Thr: 16 | Süre: 16903 ms | Spd: 8,54 | Mesafe: 1455777
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_nu3496.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: pm8079.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1069 ms | Spd: 1,00 | Mesafe: 146389
+      Thr: 2 | Süre: 681 ms | Spd: 1,57 | Mesafe: 146170
+      Thr: 4 | Süre: 381 ms | Spd: 2,80 | Mesafe: 146755
+      Thr: 6 | Süre: 287 ms | Spd: 3,72 | Mesafe: 145581
+      Thr: 8 | Süre: 205 ms | Spd: 5,20 | Mesafe: 145679
+      Thr: 12 | Süre: 211 ms | Spd: 5,06 | Mesafe: 146256
+      Thr: 16 | Süre: 123 ms | Spd: 8,66 | Mesafe: 145474
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 40459 ms | Spd: 1,00 | Mesafe: 127432
+      Thr: 2 | Süre: 24735 ms | Spd: 1,64 | Mesafe: 127141
+      Thr: 4 | Süre: 14034 ms | Spd: 2,88 | Mesafe: 127392
+      Thr: 6 | Süre: 10491 ms | Spd: 3,86 | Mesafe: 126722
+      Thr: 8 | Süre: 7912 ms | Spd: 5,11 | Mesafe: 127436
+      Thr: 12 | Süre: 7340 ms | Spd: 5,51 | Mesafe: 127388
+      Thr: 16 | Süre: 5239 ms | Spd: 7,72 | Mesafe: 126965
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 9821 ms | Spd: 1,00 | Mesafe: 5471548
+      Thr: 2 | Süre: 6195 ms | Spd: 1,59 | Mesafe: 5390536
+      Thr: 4 | Süre: 3443 ms | Spd: 2,85 | Mesafe: 5484172
+      Thr: 6 | Süre: 2677 ms | Spd: 3,67 | Mesafe: 5453058
+      Thr: 8 | Süre: 1988 ms | Spd: 4,94 | Mesafe: 5475485
+      Thr: 12 | Süre: 1992 ms | Spd: 4,93 | Mesafe: 5445530
+      Thr: 16 | Süre: 1351 ms | Spd: 7,27 | Mesafe: 5462665
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 8975 ms | Spd: 1,00 | Mesafe: 10681900
+      Thr: 2 | Süre: 5513 ms | Spd: 1,63 | Mesafe: 10688967
+      Thr: 4 | Süre: 3246 ms | Spd: 2,77 | Mesafe: 10678686
+      Thr: 6 | Süre: 3432 ms | Spd: 2,61 | Mesafe: 10654621
+      Thr: 8 | Süre: 2264 ms | Spd: 3,96 | Mesafe: 10716682
+      Thr: 12 | Süre: 2809 ms | Spd: 3,20 | Mesafe: 10677323
+      Thr: 16 | Süre: 2434 ms | Spd: 3,69 | Mesafe: 10680954
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 795416 ms | Spd: 1,00 | Mesafe: 3265589
+      Thr: 2 | Süre: 566505 ms | Spd: 1,40 | Mesafe: 3271328
+      Thr: 4 | Süre: 285525 ms | Spd: 2,79 | Mesafe: 3277287
+      Thr: 6 | Süre: 212232 ms | Spd: 3,75 | Mesafe: 3292664
+      Thr: 8 | Süre: 151073 ms | Spd: 5,27 | Mesafe: 3266497
+      Thr: 12 | Süre: 153166 ms | Spd: 5,19 | Mesafe: 3236555
+      Thr: 16 | Süre: 89799 ms | Spd: 8,86 | Mesafe: 3292867
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_pm8079.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: qa194.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 17 ms | Spd: 1,00 | Mesafe: 12167
+      Thr: 2 | Süre: 1 ms | Spd: 9,37 | Mesafe: 11822
+      Thr: 4 | Süre: 1 ms | Spd: 13,05 | Mesafe: 11332
+      Thr: 6 | Süre: 1 ms | Spd: 9,84 | Mesafe: 11575
+      Thr: 8 | Süre: 1 ms | Spd: 10,76 | Mesafe: 11898
+      Thr: 12 | Süre: 2 ms | Spd: 7,67 | Mesafe: 11931
+      Thr: 16 | Süre: 1 ms | Spd: 10,65 | Mesafe: 12015
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 36 ms | Spd: 1,00 | Mesafe: 9879
+      Thr: 2 | Süre: 11 ms | Spd: 3,09 | Mesafe: 10025
+      Thr: 4 | Süre: 5 ms | Spd: 6,46 | Mesafe: 10137
+      Thr: 6 | Süre: 4 ms | Spd: 8,47 | Mesafe: 9947
+      Thr: 8 | Süre: 3 ms | Spd: 10,34 | Mesafe: 9987
+      Thr: 12 | Süre: 3 ms | Spd: 9,83 | Mesafe: 10017
+      Thr: 16 | Süre: 3 ms | Spd: 11,18 | Mesafe: 9915
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 202 ms | Spd: 1,00 | Mesafe: 11112
+      Thr: 2 | Süre: 91 ms | Spd: 2,20 | Mesafe: 10854
+      Thr: 4 | Süre: 52 ms | Spd: 3,81 | Mesafe: 10988
+      Thr: 6 | Süre: 40 ms | Spd: 5,01 | Mesafe: 10859
+      Thr: 8 | Süre: 38 ms | Spd: 5,32 | Mesafe: 11215
+      Thr: 12 | Süre: 30 ms | Spd: 6,68 | Mesafe: 11324
+      Thr: 16 | Süre: 32 ms | Spd: 6,22 | Mesafe: 11106
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 306 ms | Spd: 1,00 | Mesafe: 30659
+      Thr: 2 | Süre: 139 ms | Spd: 2,20 | Mesafe: 30660
+      Thr: 4 | Süre: 82 ms | Spd: 3,71 | Mesafe: 30816
+      Thr: 6 | Süre: 77 ms | Spd: 3,97 | Mesafe: 30094
+      Thr: 8 | Süre: 58 ms | Spd: 5,22 | Mesafe: 31185
+      Thr: 12 | Süre: 63 ms | Spd: 4,79 | Mesafe: 30588
+      Thr: 16 | Süre: 60 ms | Spd: 5,08 | Mesafe: 30088
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 1062 ms | Spd: 1,00 | Mesafe: 24979
+      Thr: 2 | Süre: 557 ms | Spd: 1,91 | Mesafe: 25118
+      Thr: 4 | Süre: 291 ms | Spd: 3,65 | Mesafe: 22629
+      Thr: 6 | Süre: 223 ms | Spd: 4,77 | Mesafe: 24457
+      Thr: 8 | Süre: 157 ms | Spd: 6,77 | Mesafe: 23801
+      Thr: 12 | Süre: 163 ms | Spd: 6,50 | Mesafe: 24817
+      Thr: 16 | Süre: 102 ms | Spd: 10,37 | Mesafe: 23919
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_qa194.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: rw1621.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 73 ms | Spd: 1,00 | Mesafe: 32311
+      Thr: 2 | Süre: 26 ms | Spd: 2,82 | Mesafe: 32268
+      Thr: 4 | Süre: 17 ms | Spd: 4,30 | Mesafe: 32170
+      Thr: 6 | Süre: 12 ms | Spd: 5,81 | Mesafe: 31804
+      Thr: 8 | Süre: 9 ms | Spd: 7,49 | Mesafe: 32005
+      Thr: 12 | Süre: 9 ms | Spd: 8,02 | Mesafe: 32555
+      Thr: 16 | Süre: 9 ms | Spd: 7,92 | Mesafe: 32471
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 1290 ms | Spd: 1,00 | Mesafe: 29041
+      Thr: 2 | Süre: 813 ms | Spd: 1,59 | Mesafe: 28771
+      Thr: 4 | Süre: 485 ms | Spd: 2,66 | Mesafe: 28614
+      Thr: 6 | Süre: 367 ms | Spd: 3,51 | Mesafe: 28683
+      Thr: 8 | Süre: 272 ms | Spd: 4,74 | Mesafe: 28528
+      Thr: 12 | Süre: 259 ms | Spd: 4,96 | Mesafe: 28477
+      Thr: 16 | Süre: 212 ms | Spd: 6,07 | Mesafe: 28733
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 1363 ms | Spd: 1,00 | Mesafe: 264970
+      Thr: 2 | Süre: 894 ms | Spd: 1,52 | Mesafe: 270656
+      Thr: 4 | Süre: 491 ms | Spd: 2,77 | Mesafe: 268715
+      Thr: 6 | Süre: 376 ms | Spd: 3,62 | Mesafe: 269784
+      Thr: 8 | Süre: 281 ms | Spd: 4,84 | Mesafe: 265971
+      Thr: 12 | Süre: 282 ms | Spd: 4,82 | Mesafe: 260935
+      Thr: 16 | Süre: 240 ms | Spd: 5,66 | Mesafe: 267357
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 2596 ms | Spd: 1,00 | Mesafe: 898100
+      Thr: 2 | Süre: 1105 ms | Spd: 2,35 | Mesafe: 898605
+      Thr: 4 | Süre: 662 ms | Spd: 3,92 | Mesafe: 896371
+      Thr: 6 | Süre: 742 ms | Spd: 3,50 | Mesafe: 903694
+      Thr: 8 | Süre: 831 ms | Spd: 3,12 | Mesafe: 895115
+      Thr: 12 | Süre: 482 ms | Spd: 5,38 | Mesafe: 893455
+      Thr: 16 | Süre: 625 ms | Spd: 4,15 | Mesafe: 900797
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 34282 ms | Spd: 1,00 | Mesafe: 316476
+      Thr: 2 | Süre: 21421 ms | Spd: 1,60 | Mesafe: 323180
+      Thr: 4 | Süre: 11620 ms | Spd: 2,95 | Mesafe: 319517
+      Thr: 6 | Süre: 8984 ms | Spd: 3,82 | Mesafe: 321327
+      Thr: 8 | Süre: 6274 ms | Spd: 5,46 | Mesafe: 318184
+      Thr: 12 | Süre: 6407 ms | Spd: 5,35 | Mesafe: 319101
+      Thr: 16 | Süre: 3880 ms | Spd: 8,83 | Mesafe: 315669
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_rw1621.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: tz6117.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 670 ms | Spd: 1,00 | Mesafe: 491640
+      Thr: 2 | Süre: 425 ms | Spd: 1,58 | Mesafe: 489426
+      Thr: 4 | Süre: 225 ms | Spd: 2,98 | Mesafe: 491511
+      Thr: 6 | Süre: 173 ms | Spd: 3,87 | Mesafe: 488713
+      Thr: 8 | Süre: 130 ms | Spd: 5,14 | Mesafe: 489097
+      Thr: 12 | Süre: 122 ms | Spd: 5,49 | Mesafe: 489076
+      Thr: 16 | Süre: 95 ms | Spd: 6,99 | Mesafe: 495145
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 23651 ms | Spd: 1,00 | Mesafe: 447765
+      Thr: 2 | Süre: 15649 ms | Spd: 1,51 | Mesafe: 444186
+      Thr: 4 | Süre: 7958 ms | Spd: 2,97 | Mesafe: 444978
+      Thr: 6 | Süre: 6137 ms | Spd: 3,85 | Mesafe: 443661
+      Thr: 8 | Süre: 4904 ms | Spd: 4,82 | Mesafe: 445420
+      Thr: 12 | Süre: 4606 ms | Spd: 5,13 | Mesafe: 447288
+      Thr: 16 | Süre: 3031 ms | Spd: 7,80 | Mesafe: 443315
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 6092 ms | Spd: 1,00 | Mesafe: 12288477
+      Thr: 2 | Süre: 3905 ms | Spd: 1,56 | Mesafe: 12229961
+      Thr: 4 | Süre: 2156 ms | Spd: 2,83 | Mesafe: 12391348
+      Thr: 6 | Süre: 1696 ms | Spd: 3,59 | Mesafe: 12271448
+      Thr: 8 | Süre: 1254 ms | Spd: 4,86 | Mesafe: 12275826
+      Thr: 12 | Süre: 1303 ms | Spd: 4,67 | Mesafe: 12306270
+      Thr: 16 | Süre: 890 ms | Spd: 6,84 | Mesafe: 12299876
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 6580 ms | Spd: 1,00 | Mesafe: 28164205
+      Thr: 2 | Süre: 4347 ms | Spd: 1,51 | Mesafe: 28214172
+      Thr: 4 | Süre: 2907 ms | Spd: 2,26 | Mesafe: 28124540
+      Thr: 6 | Süre: 2142 ms | Spd: 3,07 | Mesafe: 28236470
+      Thr: 8 | Süre: 1873 ms | Spd: 3,51 | Mesafe: 28151338
+      Thr: 12 | Süre: 1932 ms | Spd: 3,41 | Mesafe: 28133039
+      Thr: 16 | Süre: 1711 ms | Spd: 3,84 | Mesafe: 28137387
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 547093 ms | Spd: 1,00 | Mesafe: 8841971
+      Thr: 2 | Süre: 346237 ms | Spd: 1,58 | Mesafe: 8858507
+      Thr: 4 | Süre: 189095 ms | Spd: 2,89 | Mesafe: 8699786
+      Thr: 6 | Süre: 136284 ms | Spd: 4,01 | Mesafe: 8863277
+      Thr: 8 | Süre: 96429 ms | Spd: 5,67 | Mesafe: 8687333
+      Thr: 12 | Süre: 99007 ms | Spd: 5,53 | Mesafe: 8833278
+      Thr: 16 | Süre: 58010 ms | Spd: 9,43 | Mesafe: 8756096
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_tz6117.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: uy734.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 14 ms | Spd: 1,00 | Mesafe: 96017
+      Thr: 2 | Süre: 6 ms | Spd: 2,11 | Mesafe: 96545
+      Thr: 4 | Süre: 4 ms | Spd: 3,45 | Mesafe: 95602
+      Thr: 6 | Süre: 3 ms | Spd: 4,41 | Mesafe: 95877
+      Thr: 8 | Süre: 2 ms | Spd: 5,03 | Mesafe: 95270
+      Thr: 12 | Süre: 2 ms | Spd: 5,98 | Mesafe: 96390
+      Thr: 16 | Süre: 2 ms | Spd: 5,38 | Mesafe: 96450
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 281 ms | Spd: 1,00 | Mesafe: 87150
+      Thr: 2 | Süre: 186 ms | Spd: 1,51 | Mesafe: 87691
+      Thr: 4 | Süre: 101 ms | Spd: 2,78 | Mesafe: 86836
+      Thr: 6 | Süre: 69 ms | Spd: 4,03 | Mesafe: 86637
+      Thr: 8 | Süre: 55 ms | Spd: 5,05 | Mesafe: 86712
+      Thr: 12 | Süre: 49 ms | Spd: 5,70 | Mesafe: 87244
+      Thr: 16 | Süre: 38 ms | Spd: 7,25 | Mesafe: 86785
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 549 ms | Spd: 1,00 | Mesafe: 259631
+      Thr: 2 | Süre: 270 ms | Spd: 2,03 | Mesafe: 257791
+      Thr: 4 | Süre: 158 ms | Spd: 3,47 | Mesafe: 258837
+      Thr: 6 | Süre: 132 ms | Spd: 4,17 | Mesafe: 262733
+      Thr: 8 | Süre: 92 ms | Spd: 5,94 | Mesafe: 260403
+      Thr: 12 | Süre: 114 ms | Spd: 4,82 | Mesafe: 259810
+      Thr: 16 | Süre: 71 ms | Spd: 7,73 | Mesafe: 261647
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 896 ms | Spd: 1,00 | Mesafe: 1019638
+      Thr: 2 | Süre: 527 ms | Spd: 1,70 | Mesafe: 1015267
+      Thr: 4 | Süre: 301 ms | Spd: 2,97 | Mesafe: 1006390
+      Thr: 6 | Süre: 248 ms | Spd: 3,61 | Mesafe: 1009834
+      Thr: 8 | Süre: 201 ms | Spd: 4,44 | Mesafe: 1017515
+      Thr: 12 | Süre: 221 ms | Spd: 4,05 | Mesafe: 1021592
+      Thr: 16 | Süre: 293 ms | Spd: 3,06 | Mesafe: 1020507
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 10128 ms | Spd: 1,00 | Mesafe: 449181
+      Thr: 2 | Süre: 5509 ms | Spd: 1,84 | Mesafe: 437443
+      Thr: 4 | Süre: 3019 ms | Spd: 3,35 | Mesafe: 438216
+      Thr: 6 | Süre: 2286 ms | Spd: 4,43 | Mesafe: 449108
+      Thr: 8 | Süre: 1634 ms | Spd: 6,20 | Mesafe: 458423
+      Thr: 12 | Süre: 1682 ms | Spd: 6,02 | Mesafe: 452605
+      Thr: 16 | Süre: 1021 ms | Spd: 9,92 | Mesafe: 436481
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_uy734.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: wi29.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 0 ms | Spd: 1,00 | Mesafe: 32163
+      Thr: 2 | Süre: 0 ms | Spd: 1,18 | Mesafe: 32163
+      Thr: 4 | Süre: 0 ms | Spd: 0,52 | Mesafe: 32812
+      Thr: 6 | Süre: 0 ms | Spd: 0,68 | Mesafe: 32812
+      Thr: 8 | Süre: 0 ms | Spd: 0,48 | Mesafe: 32163
+      Thr: 12 | Süre: 0 ms | Spd: 0,40 | Mesafe: 32855
+      Thr: 16 | Süre: 1 ms | Spd: 0,32 | Mesafe: 32812
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 6 ms | Spd: 1,00 | Mesafe: 28083
+      Thr: 2 | Süre: 1 ms | Spd: 3,51 | Mesafe: 28021
+      Thr: 4 | Süre: 1 ms | Spd: 4,39 | Mesafe: 28021
+      Thr: 6 | Süre: 1 ms | Spd: 4,61 | Mesafe: 27602
+      Thr: 8 | Süre: 1 ms | Spd: 5,31 | Mesafe: 27749
+      Thr: 12 | Süre: 1 ms | Spd: 4,43 | Mesafe: 27602
+      Thr: 16 | Süre: 1 ms | Spd: 4,97 | Mesafe: 27602
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 83 ms | Spd: 1,00 | Mesafe: 27602
+      Thr: 2 | Süre: 23 ms | Spd: 3,55 | Mesafe: 27602
+      Thr: 4 | Süre: 13 ms | Spd: 6,33 | Mesafe: 27602
+      Thr: 6 | Süre: 11 ms | Spd: 7,62 | Mesafe: 27602
+      Thr: 8 | Süre: 7 ms | Spd: 11,86 | Mesafe: 27602
+      Thr: 12 | Süre: 6 ms | Spd: 12,84 | Mesafe: 27602
+      Thr: 16 | Süre: 6 ms | Spd: 12,38 | Mesafe: 27602
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 147 ms | Spd: 1,00 | Mesafe: 27602
+      Thr: 2 | Süre: 53 ms | Spd: 2,74 | Mesafe: 27602
+      Thr: 4 | Süre: 30 ms | Spd: 4,92 | Mesafe: 27602
+      Thr: 6 | Süre: 24 ms | Spd: 6,02 | Mesafe: 28021
+      Thr: 8 | Süre: 21 ms | Spd: 6,74 | Mesafe: 27602
+      Thr: 12 | Süre: 24 ms | Spd: 5,97 | Mesafe: 28021
+      Thr: 16 | Süre: 22 ms | Spd: 6,60 | Mesafe: 27602
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 48 ms | Spd: 1,00 | Mesafe: 30919
+      Thr: 2 | Süre: 24 ms | Spd: 1,98 | Mesafe: 31360
+      Thr: 4 | Süre: 13 ms | Spd: 3,49 | Mesafe: 31330
+      Thr: 6 | Süre: 11 ms | Spd: 4,36 | Mesafe: 29075
+      Thr: 8 | Süre: 8 ms | Spd: 5,72 | Mesafe: 30684
+      Thr: 12 | Süre: 7 ms | Spd: 6,34 | Mesafe: 31730
+      Thr: 16 | Süre: 7 ms | Spd: 6,31 | Mesafe: 30913
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_wi29.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: ym7663.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 1040 ms | Spd: 1,00 | Mesafe: 304084
+      Thr: 2 | Süre: 672 ms | Spd: 1,55 | Mesafe: 304872
+      Thr: 4 | Süre: 361 ms | Spd: 2,88 | Mesafe: 303479
+      Thr: 6 | Süre: 276 ms | Spd: 3,76 | Mesafe: 305318
+      Thr: 8 | Süre: 192 ms | Spd: 5,40 | Mesafe: 305089
+      Thr: 12 | Süre: 187 ms | Spd: 5,53 | Mesafe: 305626
+      Thr: 16 | Süre: 171 ms | Spd: 6,06 | Mesafe: 307383
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 39954 ms | Spd: 1,00 | Mesafe: 265159
+      Thr: 2 | Süre: 25055 ms | Spd: 1,59 | Mesafe: 267118
+      Thr: 4 | Süre: 13944 ms | Spd: 2,87 | Mesafe: 267341
+      Thr: 6 | Süre: 10359 ms | Spd: 3,86 | Mesafe: 268990
+      Thr: 8 | Süre: 8113 ms | Spd: 4,92 | Mesafe: 267437
+      Thr: 12 | Süre: 7327 ms | Spd: 5,45 | Mesafe: 267877
+      Thr: 16 | Süre: 5164 ms | Spd: 7,74 | Mesafe: 267458
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 8859 ms | Spd: 1,00 | Mesafe: 9054282
+      Thr: 2 | Süre: 5713 ms | Spd: 1,55 | Mesafe: 9130309
+      Thr: 4 | Süre: 3084 ms | Spd: 2,87 | Mesafe: 9118746
+      Thr: 6 | Süre: 2458 ms | Spd: 3,60 | Mesafe: 9054082
+      Thr: 8 | Süre: 1807 ms | Spd: 4,90 | Mesafe: 9140982
+      Thr: 12 | Süre: 1892 ms | Spd: 4,68 | Mesafe: 9091219
+      Thr: 16 | Süre: 1230 ms | Spd: 7,20 | Mesafe: 9099509
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 8246 ms | Spd: 1,00 | Mesafe: 17735580
+      Thr: 2 | Süre: 5328 ms | Spd: 1,55 | Mesafe: 17619728
+      Thr: 4 | Süre: 3285 ms | Spd: 2,51 | Mesafe: 17757443
+      Thr: 6 | Süre: 3006 ms | Spd: 2,74 | Mesafe: 17750379
+      Thr: 8 | Süre: 1994 ms | Spd: 4,13 | Mesafe: 17739843
+      Thr: 12 | Süre: 2499 ms | Spd: 3,30 | Mesafe: 17724867
+      Thr: 16 | Süre: 2304 ms | Spd: 3,58 | Mesafe: 17774532
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 852362 ms | Spd: 1,00 | Mesafe: 5435317
+      Thr: 2 | Süre: 542400 ms | Spd: 1,57 | Mesafe: 5498074
+      Thr: 4 | Süre: 274337 ms | Spd: 3,11 | Mesafe: 5435175
+      Thr: 6 | Süre: 213678 ms | Spd: 3,99 | Mesafe: 5461863
+      Thr: 8 | Süre: 151560 ms | Spd: 5,62 | Mesafe: 5415798
+      Thr: 12 | Süre: 154941 ms | Spd: 5,50 | Mesafe: 5461475
+      Thr: 16 | Süre: 90222 ms | Spd: 9,45 | Mesafe: 5497224
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_ym7663.tsp.txt
+
+==========================================
+DATASET İŞLENİYOR: zi929.tsp
+
+   -> Algoritma: Greedy (Multi-Start)
+      Thr: 1 | Süre: 39 ms | Spd: 1,00 | Mesafe: 114511
+      Thr: 2 | Süre: 10 ms | Spd: 3,64 | Mesafe: 116442
+      Thr: 4 | Süre: 6 ms | Spd: 6,47 | Mesafe: 114190
+      Thr: 6 | Süre: 4 ms | Spd: 9,12 | Mesafe: 116128
+      Thr: 8 | Süre: 3 ms | Spd: 10,25 | Mesafe: 115909
+      Thr: 12 | Süre: 4 ms | Spd: 9,42 | Mesafe: 114538
+      Thr: 16 | Süre: 3 ms | Spd: 10,04 | Mesafe: 113387
+
+   -> Algoritma: 2-Opt (Random-Start)
+      Thr: 1 | Süre: 488 ms | Spd: 1,00 | Mesafe: 104313
+      Thr: 2 | Süre: 294 ms | Spd: 1,66 | Mesafe: 104242
+      Thr: 4 | Süre: 156 ms | Spd: 3,12 | Mesafe: 104254
+      Thr: 6 | Süre: 126 ms | Spd: 3,87 | Mesafe: 104453
+      Thr: 8 | Süre: 100 ms | Spd: 4,89 | Mesafe: 104663
+      Thr: 12 | Süre: 94 ms | Spd: 5,19 | Mesafe: 105116
+      Thr: 16 | Süre: 67 ms | Spd: 7,19 | Mesafe: 103544
+
+   -> Algoritma: Simulated Annealing
+      Thr: 1 | Süre: 712 ms | Spd: 1,00 | Mesafe: 382639
+      Thr: 2 | Süre: 397 ms | Spd: 1,79 | Mesafe: 380765
+      Thr: 4 | Süre: 212 ms | Spd: 3,36 | Mesafe: 380263
+      Thr: 6 | Süre: 171 ms | Spd: 4,16 | Mesafe: 364714
+      Thr: 8 | Süre: 126 ms | Spd: 5,65 | Mesafe: 374116
+      Thr: 12 | Süre: 125 ms | Spd: 5,69 | Mesafe: 385216
+      Thr: 16 | Süre: 83 ms | Spd: 8,50 | Mesafe: 379497
+
+   -> Algoritma: Genetic Algorithm
+      Thr: 1 | Süre: 1093 ms | Spd: 1,00 | Mesafe: 1486210
+      Thr: 2 | Süre: 652 ms | Spd: 1,68 | Mesafe: 1485593
+      Thr: 4 | Süre: 373 ms | Spd: 2,93 | Mesafe: 1482822
+      Thr: 6 | Süre: 307 ms | Spd: 3,56 | Mesafe: 1487664
+      Thr: 8 | Süre: 262 ms | Spd: 4,16 | Mesafe: 1468127
+      Thr: 12 | Süre: 369 ms | Spd: 2,96 | Mesafe: 1488049
+      Thr: 16 | Süre: 321 ms | Spd: 3,40 | Mesafe: 1495839
+
+   -> Algoritma: Ant Colony Opt.
+      Thr: 1 | Süre: 15276 ms | Spd: 1,00 | Mesafe: 611289
+      Thr: 2 | Süre: 8580 ms | Spd: 1,78 | Mesafe: 635649
+      Thr: 4 | Süre: 4516 ms | Spd: 3,38 | Mesafe: 639334
+      Thr: 6 | Süre: 3440 ms | Spd: 4,44 | Mesafe: 646868
+      Thr: 8 | Süre: 2425 ms | Spd: 6,30 | Mesafe: 648810
+      Thr: 12 | Süre: 2511 ms | Spd: 6,08 | Mesafe: 651952
+      Thr: 16 | Süre: 1544 ms | Spd: 9,89 | Mesafe: 618716
+      >>> EN İYİ ROTA KAYDEDİLDİ: solution_zi929.tsp.txt
+
+------------------------------------------
+TÜM TESTLER BİTTİ.

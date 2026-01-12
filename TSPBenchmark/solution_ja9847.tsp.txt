@@ -1,0 +1,4 @@
+Dataset: ja9847.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 547516,44
+Süre: 139886

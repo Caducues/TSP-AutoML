@@ -1,0 +1,4 @@
+Dataset: dj38.tsp
+En Iyi Bulan Algoritma: Simulated Annealing
+Toplam Mesafe: 6657,68
+Süre: 6

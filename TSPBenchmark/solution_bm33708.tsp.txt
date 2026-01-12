@@ -1,0 +1,4 @@
+Dataset: bm33708.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 1081788,44
+Süre: 1617919

@@ -1,0 +1,4 @@
+Dataset: pm8079.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 126721,83
+Süre: 89799

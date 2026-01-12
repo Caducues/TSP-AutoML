@@ -1,0 +1,4 @@
+Dataset: nu3496.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 106144,98
+Süre: 16903

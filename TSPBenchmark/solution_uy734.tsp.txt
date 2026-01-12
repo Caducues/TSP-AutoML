@@ -1,0 +1,4 @@
+Dataset: uy734.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 86637,05
+Süre: 1021

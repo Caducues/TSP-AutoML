@@ -1,0 +1,4 @@
+Dataset: mo14185.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 478669,67
+Süre: 303344

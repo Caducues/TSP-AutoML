@@ -1,0 +1,4 @@
+Dataset: ar9152.tsp
+En Iyi Bulan Algoritma: 2-Opt (Random-Start)
+Toplam Mesafe: 937099,69
+Süre: 114819
